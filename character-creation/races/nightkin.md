@@ -1,4 +1,4 @@
-# Synths
+# Nightkin
 
 ## General Information
 
