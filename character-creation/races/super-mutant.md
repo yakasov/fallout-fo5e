@@ -14,8 +14,6 @@ First generation super mutants have paler, olive skin in addition to larger musc
 
 Super mutants are infertile and cannot reproduce, but also do not age. Due to this, they have no children, and without a process to make more (often against the will of the human involved) their numbers will dwindle over the years.
 
-<br>
-
 ### Age
 
 20 - 200
@@ -23,7 +21,6 @@ Super mutants are infertile and cannot reproduce, but also do not age. Due to th
 <br>
 
 ## Stat Effects
----
 
 ### SPECIAL
 
@@ -43,8 +40,6 @@ INTELLIGENCE: -1 <br>
 AGILITY: -1 <br>
 LUCK: -2
 
-<br>
-
 ### Skills
 
 Barter: -10% <br>
@@ -52,9 +47,6 @@ Big Guns: +10% <br>
 Lockpick: -10% <br>
 Bonus to knowledge/history checks depending on age
 
-<br>
-
 ### Interactions
 
 Humans tend to run in fear at the mere sight of a super mutant - although friendly super mutants aren't unheard of. Depending on the community, you may be shunned or discriminated against. Ghouls, on the other hand, may find no trouble with you if you present no threat to them. Super mutants and nightkin can co-habit together.
-

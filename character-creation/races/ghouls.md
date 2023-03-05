@@ -16,8 +16,6 @@ Ghouls, unlike what a certain ghoul in a fridge might tell you, do still require
 
 Ghouls are immune to most common diseases, excluding diseases that can affect the mind. However, drugs will also have a diminished effect on their physiology, and so will need higher doses or stronger drugs to achieve similar effects to humans.
 
-<br>
-
 ### Age
 
 20 - 200 <br>
@@ -26,7 +24,6 @@ Since a playable ghoul is not feral, they generally retain information from when
 <br>
 
 ## Stat Effects
----
 
 ### SPECIAL
 
@@ -34,17 +31,12 @@ CHARISMA: -2 <br>
 PERCEPTION: -1 <br>
 ENDURANCE: +2
 
-<br>
-
 ### Skills
 
 Athletics: -10% <br>
 Survival: +10% <br>
 Bonus to knowledge/history checks depending on age
 
-<br>
-
 ### Interactions
 
 Whilst humans generally may be less tolerant of ghouls and find them repulsive, other intelligent ghouls may be more willing to talk to you. Feral ghouls will also not attack you unless provoked.
-

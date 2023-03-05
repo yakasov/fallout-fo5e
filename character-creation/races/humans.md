@@ -17,21 +17,16 @@ Due to the general lack of extreme mutation, humans are very similar to humans n
 <br>
 
 ## Stat Effects
----
 
 ### SPECIAL
 
 CHARISMA: +1 <br>
 ENDURANCE: -1
 
-<br>
-
 ### Skills
 
 Speech: +10% <br>
 Survival: -10%
-
-<br>
 
 ### Interactions
 
