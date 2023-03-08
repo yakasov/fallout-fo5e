@@ -21,7 +21,7 @@ Drug only affect you half as long, but you don't experience a comedown after usi
 
 ## Fast Metabolism
 
-Your metabolic rate is twice normal. This means you are much less resistant to radiation and poison, but your body heals faster.
+Your metabolic rate is twice normal. This means you are much less resistant to radiation and poison, but your body heals faster.  
 ***Positive:** +2 to Healing Rate*  
 ***Negative:** Resistance formula changes to (END x 2) (≥ 0), %*
 
