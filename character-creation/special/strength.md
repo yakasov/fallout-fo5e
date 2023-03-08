@@ -7,7 +7,7 @@ A measure of your raw physical power. It affects how much you can carry and the 
 ## Derived Statistics and Effects
 
 - Carry Weight  
-  *= 120 + (STR x 20), lbs*
+  *= 130 + (STR x 20), lbs*
 
 - Hit Points  
   *= 10 + STR + (END x 2) (≥ 8)*
