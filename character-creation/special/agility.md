@@ -9,7 +9,7 @@ A measure of your overall finesse and reflexes. It affects the number of Action 
 - Action Points  
   *= 8 + (AGI x 2) (≥ 5)*
 
-- Armour Class
+- Armour Class  
   *= 12 + AGI*
 
 ## Associated Skills

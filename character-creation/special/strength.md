@@ -10,7 +10,7 @@ A measure of your raw physical power. It affects how much you can carry and the 
   *= 120 + (STR x 20), lbs*
 
 - Hit Points  
-  *see Endurance*
+  *= 10 + STR + (END x 2) (≥ 8)*
 
 - Melee Damage  
   *= 1 + STR (≥ 1), 1 die*

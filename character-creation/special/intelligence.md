@@ -9,7 +9,7 @@ A measure of your overall mental acuity. It affects the number of Experience Poi
 - Experience Points bonus  
   *= 5 x INT, %*
 
-- Skill Points per level
+- Skill Points per level  
   *= 10 + INT*
 
 ## Associated Skills
