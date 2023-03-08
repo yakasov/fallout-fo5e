@@ -14,8 +14,6 @@ Despite the widespread radiation and resulting mutations, humans still reign dom
 
 Due to the general lack of extreme mutation, humans are very similar to humans nowadays. However, there are some groups in the wasteland that distinguish harshly between 'pure humans' and 'normal humans' - where pure humans are nearly always from vaults, where they have not been affected by radiation or post-War pollutants.
 
-<br>
-
 ### Age
 
 20-60
