@@ -7,10 +7,10 @@ A measure of your general good fortune and affects the rate of Critical Hits.
 ## Derived Statistics and Effects
 
 - Overall dice bonus  
-  *= LCK*
+  *= LCK, 1 die*
 
-- Bonus Critical Chance  
-  *= 3 + (LCK / 2) (≤ 5), %*
+- Critical Chance  
+  *= 5 + LCK (≥ 1), %*
 
 ## Associated Skills
 

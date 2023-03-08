@@ -13,13 +13,13 @@ A measure of your overall physical fitness. It affects your healing rate, your t
   *= 10 + STR + (END x 2) (≥ 8)*
 
 - Hit Points bonus per level  
-  *= 2 + (END + 6) / 2*
+  *= 5 + (END / 2)*
 
 - Poison Resistance  
-  *= 10 + (END x 2), %*
+  *= 25 + (END x 5), %*
 
 - Radiation Resistance  
-  *= 10 + (END x 2), %*
+  *= 25 + (END x 5), %*
 
 ## Associated Skills
 

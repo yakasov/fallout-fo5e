@@ -13,7 +13,7 @@ A measure of your raw physical power. It affects how much you can carry and the 
   *= 10 + STR + (END x 2) (≥ 8)*
 
 - Melee Damage  
-  *= 1 + STR (≥ 1), 1 die*
+  *= 4 + STR (≥ 1), 1 die*
 
 ## Associated Skills
 
