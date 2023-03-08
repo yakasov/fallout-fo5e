@@ -4,6 +4,8 @@
 
 ### Description
 
+*Note: due to the stat effects of super mutants, they may be considered a more specialised race - so they may not have a large choice in class.*
+
 Super mutants are a result of the Forced Evolutionary Virus - humans dipped into vats filled with the virus often resulted in powerful super soldiers, large in size and potentially much more intelligent.
 
 Typically, super mutants will exhibit exceptional strength and increased resistance or even immunity to diseases and radiation - however, their intelligence may not always be increased, and can sometimes actually be hindered.
@@ -16,7 +18,7 @@ Super mutants are infertile and cannot reproduce, but also do not age. Due to th
 
 ### Age
 
-20 - 200
+30 - 150
 
 <br>
 
