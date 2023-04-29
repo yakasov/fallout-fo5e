@@ -4,7 +4,7 @@
 
 ### Description
 
-Ghouls are mutated humans (or, in some cases, animals) affected by 'ghoulification'. In the majority of cases, ghouls are feral and do not retain memories of their previous human life, but in some cases ghouls can otherwise keep their mental faculties intact. 
+Ghouls are mutated humans (or, in some cases, animals) affected by 'ghoulification'. In the majority of cases, ghouls are feral and do not retain memories of their previous human life, but in some cases ghouls can otherwise keep their mental faculties intact.
 
 In terms of appearance, their skin will appear rough and boiled, and loss of tissue similar to leprosy resulting in exposed blood vessels, muscles and sometimes even bones.
 

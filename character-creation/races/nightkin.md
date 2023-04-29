@@ -31,7 +31,7 @@ INTELLIGENCE: -2
 
 Sneak: -10% <br>
 Speech: -10% <br>
-Advantage on any sneak check twice a day 
+Advantage on any sneak check twice a day
 
 ### Interactions
 

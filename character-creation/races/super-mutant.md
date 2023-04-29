@@ -4,7 +4,7 @@
 
 ### Description
 
-*Note: due to the stat effects of super mutants, they may be considered a more specialised race - so they may not have a large choice in class.*
+_Note: due to the stat effects of super mutants, they may be considered a more specialised race - so they may not have a large choice in class._
 
 Super mutants are a result of the Forced Evolutionary Virus - humans dipped into vats filled with the virus often resulted in powerful super soldiers, large in size and potentially much more intelligent.
 
@@ -26,7 +26,8 @@ Super mutants are infertile and cannot reproduce, but also do not age. Due to th
 
 ### SPECIAL
 
-#### *Generation 1 Super Mutants:*
+#### _Generation 1 Super Mutants:_
+
 STRENGTH: +1 <br>
 ENDURANCE: +1 <br>
 INTELLIGENCE: +1 <br>
@@ -35,7 +36,8 @@ LUCK: -2
 
 <br>
 
-#### *Generation 2 Super Mutants:*
+#### _Generation 2 Super Mutants:_
+
 STRENGTH: +3 <br>
 ENDURANCE: +1 <br>
 INTELLIGENCE: -1 <br>
